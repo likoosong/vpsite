@@ -51,7 +51,7 @@ export default defineConfig({
 
     ],
     footer: 
-      {copyright: 'Copyright © 2021-present By likoo 新ICP备2024013217号'}
+      {copyright: 'Copyright © 2021-present By likoo <a href="https://beian.miit.gov.cn/" target="_blank">新ICP备2024013217号</a>'}
     
   }
 })
